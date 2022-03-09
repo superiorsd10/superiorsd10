@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## I'm Sachin Dapkara
+### I'm Sachin Dapkara
 
-## 🌱 I’m currently learning Full Stack Web Development
+### 🌱 I’m currently learning Full Stack Web Development
 
 <!--
 **superiorsd10/superiorsd10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
