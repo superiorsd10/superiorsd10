@@ -8,9 +8,12 @@
 - 🌐 Passionate about learning new technologies and delving deep into already learned ones.
 - 📝 Hobbies include writing, reading, photography, editing, designing, and singing (lately).
 
+<br>
 
 ## Socials 🌐
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/superiorsd10) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-dapkara) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/sachin-dapkara) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/superior_sd10) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/superiorsd10) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-dapkara) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/sachin-dapkara) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/superior_sd10)
+
+<br>
 
 ## Tech Stack 💻
 
@@ -50,6 +53,8 @@
 ##### 🕓 Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<br>
+
 ## Open Source Contributions 🌐
 
 | S.No. | Organization | Project      | Link to PRs | Link to Created Issues |
@@ -57,15 +62,18 @@
 | 1     | CCExtractor  | ultimate_alarm_clock      | [PRs](https://github.com/CCExtractor/ultimate_alarm_clock/pulls?q=is:pr+author:superiorsd10+is:closed) | [Issues](https://github.com/CCExtractor/ultimate_alarm_clock/issues?q=is:issue+is:closed+author:superiorsd10)         |
 | 2     | Welltested-AI| FlutterGPT      | [PRs](https://github.com/Welltested-AI/fluttergpt/pulls?q=is:pr+is:closed+author:superiorsd10) | [Issues](https://github.com/Welltested-AI/fluttergpt/issues?q=is:issue+is:closed+author:superiorsd10)         |
 
+<br>
 
 ## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=superiorsd10&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=superiorsd10&theme=great-gatsby&hide_border=false)<br/>
 
+<br>
+
 ## Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<br>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=superiorsd10&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
