@@ -5,6 +5,8 @@
 - 🎓 Currently pursuing B.Tech (Computer Science) at Indian Institute of Information Technology, Lucknow.
 - 💻 Open source enthusiast currently contributing to CCExtractor and Welltested-AI.
 - 📱 Mobile and Backend Developer.
+- 🌐 Recognized among the top 30 open source contributors at Winter of Code 3.0, Winner of OverEngineered.
+- 🏆 Coordinator of the App Dev Wing at Axios IIITL.
 - 🌐 Passionate about learning new technologies and delving deep into already learned ones.
 - 📝 Hobbies include writing, reading, photography, editing, designing, and singing (lately).
 
